@@ -94,7 +94,8 @@ Python is a versatile, high-level programming language that is easy to learn and
 2. Download the latest version of Python for your operating system.
 3. Run the installer and follow the setup wizard.
    - Ensure you check the box to "Add Python to PATH."
-
+### Andrew course link:
+https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
 ### Verify Installation:
 After installation, open a terminal or command prompt and type:
 ```bash
